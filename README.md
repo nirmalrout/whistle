@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Landing Page Components
 
 This project contains three reusable and responsive React components commonly used in marketing and landing pages.
@@ -148,3 +149,6 @@ src/
 * JavaScript (ES6+)
 
 This implementation follows a reusable and scalable component architecture suitable for production-grade React applications and landing pages.
+=======
+# whistle
+>>>>>>> d0fe6826351183618a8c0ab39b3fe75356b14c46
