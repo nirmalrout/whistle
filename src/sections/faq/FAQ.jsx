@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import FAQItem from "./FAQItem";
+import FAQItem from "./Faqitem";
 import { faqData } from "../../data/faq";
 import './faq.css'
 
